@@ -148,7 +148,8 @@ p {
 }
 
 .slider img {
-    width: 100%; 
+    width: 100%;
+	min-width: 250px;
 }
 
 #carousel-slider {
