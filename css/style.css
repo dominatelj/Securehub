@@ -149,7 +149,7 @@ p {
 
 .slider img {
     width: 100%;
-	min-width: 250px;
+	min-height: 250px;
 }
 
 #carousel-slider {
